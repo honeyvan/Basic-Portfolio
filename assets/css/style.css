@@ -1,9 +1,7 @@
 header {
 	background-color: #ffffff;
 	color: white;
-	border-bottom-style: solid;
-	border-bottom-width: 2px;
-	border-color: #D3D3D3;
+	border-bottom: 2px solid #D3D3D3;
 	height: 75px;
 	margin-bottom: 30px;
 }
@@ -66,9 +64,7 @@ main {
 #portfolio,
 #contact {
 	float: left;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #D3D3D3;
+	border: 1px solid #D3D3D3;
 	background-color: white;	
 	margin-left: 100px;
 	width: 650px;
@@ -137,9 +133,7 @@ footer {
 	height: 75px;
 	position: relative;
 	left: 0 ; right: 0; bottom: 0;
-	border-top-style: solid;
-	border-top-width: 3px;
-	border-color: #4aaaa5;
+	border-top: 3px solid #4aaaa5;
 }
 
 .footer-text {
